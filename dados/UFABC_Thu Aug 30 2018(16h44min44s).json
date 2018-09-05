@@ -1,0 +1,2601 @@
+{
+  "id": "13217906292402142721",
+  "nome": "Universidade Federal do ABC",
+  "sigla": "UFABC",
+  "dataCriacao": "2018-08-30T19:44:04.656Z",
+  "ultimoUpdate": "2018-08-30T19:44:04.656Z",
+  "pesquisadores": [
+    {
+      "nome": "Eduardo de Moraes Gregores",
+      "url": "/citations?user=tVWiGicAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pedro Galli Mercadante",
+      "url": "/citations?user=2cpxofUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Harki Tanaka",
+      "url": "/citations?user=Uh35gdQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Harki Tanaka",
+      "url": "/citations?user=EjFgXPYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Amelia Bergamini Machado",
+      "url": "/citations?user=3NSaKWoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcos Duarte",
+      "url": "/citations?user=9ELs5rcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "CA Moura",
+      "url": "/citations?user=fOIWceEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Dmitri Vassilevich",
+      "url": "/citations?user=xk9KM9AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Ricardo Sato",
+      "url": "/citations?user=tTYtwesAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "MA Leigui de Oliveira",
+      "url": "/citations?user=gJzslyQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joao Henrique G. Lago",
+      "url": "/citations?user=eVNueFsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Amedea B. Seabra",
+      "url": "/citations?user=PWgiRgIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz Roberto Nunes",
+      "url": "/citations?user=fqyAfAkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ruth Ferreira Galduróz",
+      "url": "/citations?user=4HEMncoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre Santarosa Ferlauto",
+      "url": "/citations?user=xF7SYMsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Derval dos Santos Rosa",
+      "url": "/citations?user=As_7NV8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ronaldo C. Prati",
+      "url": "/citations?user=lZ0ASREAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Klaus Capelle",
+      "url": "/citations?user=F9Q6k2gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roberto M. Serra",
+      "url": "/citations?user=iH_7KzkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria Camila Almeida",
+      "url": "/citations?user=OsmO2d4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wagner Carvalho",
+      "url": "/citations?user=IhM4l8wAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexander Zhidenko",
+      "url": "/citations?user=n2gIWycAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gustavo M. Dalpian",
+      "url": "/citations?user=m_TYQogAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roldão da Rocha",
+      "url": "/citations?user=ZM6V1PQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcos A. Avila",
+      "url": "/citations?user=GZJ8AucAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eduardo Leite Borba",
+      "url": "/citations?user=RBGaWw8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "sergio amadeu da silveira",
+      "url": "/citations?user=gQNnKdcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nelson Studart",
+      "url": "/citations?user=XRnlDpkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno Lemos Batista",
+      "url": "/citations?user=NIA_I28AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carneiro-Ramos MS",
+      "url": "/citations?user=ctiVL6IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Raquel A. Ribeiro",
+      "url": "/citations?user=10s_D5LRND4C&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcio Fabiano da Silva",
+      "url": "/citations?user=XWka3roAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Humberto Naoyuki Yoshimura",
+      "url": "/citations?user=FE3gS8oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Giacomelli",
+      "url": "/citations?user=p6zN_KAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniele Ribeiro de Araujo",
+      "url": "/citations?user=FRaV48EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria Teresa Carthery-Goulart",
+      "url": "/citations?user=DLuijOkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Iseli Lourenço Nantes-Cardoso",
+      "url": "/citations?user=E8rKeH8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alex Gomes Dias",
+      "url": "/citations?user=K6OGuM8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Arilson Favareto",
+      "url": "/citations?user=5age628AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vilson Tonin Zanchin",
+      "url": "/citations?user=ie2DwbEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "María C. Valverde",
+      "url": "/citations?user=VEd2X5IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Sarto Polo",
+      "url": "/citations?user=4oivlWMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Reyolando MLRF Brasil",
+      "url": "/citations?user=czoSj1YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gustavo Morari do Nascimento",
+      "url": "/citations?user=Anph9-gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Hugo Barbosa Suffredini",
+      "url": "/citations?user=o-xoBxUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Samara Garcia",
+      "url": "/citations?user=QQ6jss0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Everaldo Carlos Venancio",
+      "url": "/citations?user=wDhaUtgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Abrahão Fontes Baptista",
+      "url": "/citations?user=C_SdEmUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renato Altobelli Antunes",
+      "url": "/citations?user=77R1i-UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Helio Waldman",
+      "url": "/citations?user=NJkZmrIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fabio Furlan Ferreira",
+      "url": "/citations?user=sN-Gs3AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre Hideki Okano",
+      "url": "/citations?user=XQB6B_UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Geomárcia Ramos",
+      "url": "/citations?user=IkiEE8IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos Alberto Kamienski",
+      "url": "/citations?user=Imk4BSEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "German Lugones",
+      "url": "/citations?user=R9h_MZkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tiago Rodrigues",
+      "url": "/citations?user=amfdzzAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Herculano da Silva Martinho",
+      "url": "/citations?user=YHF4glsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marat Rafikov",
+      "url": "/citations?user=vbKZiYoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Giselle Cerchiaro",
+      "url": "/citations?user=cCdkvWsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre Lessa",
+      "url": "/citations?user=rXM0KGUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alejandro Andrés Zúñiga Páez",
+      "url": "/citations?user=ySWyGF8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "César Ribeiro",
+      "url": "/citations?user=BjrCa8sAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "valery shchesnovich",
+      "url": "/citations?user=ZPj-2JEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wendel Andrade Alves",
+      "url": "/citations?user=3Mqs3vUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ronei Miotto",
+      "url": "/citations?user=5MA0A9gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Simone R. Freitas",
+      "url": "/citations?user=bs5g9iEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo LOR Cunha",
+      "url": "/citations?user=fMT6aqQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre Hiroaki Kihara",
+      "url": "/citations?user=z-B9PdwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vanessa K. Verdade",
+      "url": "/citations?user=ieAE6sEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcos Sampaio",
+      "url": "/citations?user=jIetzW8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mauricio D. Coutinho Neto",
+      "url": "/citations?user=f4iQt5EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Danilo da Cruz Centeno",
+      "url": "/citations?user=qxo0jfkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcia Escote",
+      "url": "/citations?user=JilG-HQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Antonio Alvaro Ranha Neves (orcid.org/0000-0002-2615-8573)",
+      "url": "/citations?user=XkAo4d0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Celso C. Nishi",
+      "url": "/citations?user=FNl3oWMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Arnaldo Rodrigues dos Santos Jr.",
+      "url": "/citations?user=UPpv2pwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Hueder Paulo M. de Oliveira",
+      "url": "/citations?user=5TSEptcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Modesto",
+      "url": "/citations?user=djSSJXkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jesús P. Mena-Chalco",
+      "url": "/citations?user=tPWyJYEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patricia A Ana",
+      "url": "/citations?user=csO8zUUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Leandro Reverberi Tambosi",
+      "url": "/citations?user=4hICKqMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Zanetti de Florio",
+      "url": "/citations?user=yIyZSvgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Anderson Orzari Ribeiro",
+      "url": "/citations?user=sdNnZm4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wanius Garcia",
+      "url": "/citations?user=kxLgkskAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria Gabriela SMC Marinho",
+      "url": "/citations?user=MrM4jrkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ivanise Gaubeur",
+      "url": "/citations?user=5Y0QIEAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fabricio de Franca",
+      "url": "/citations?user=1FgxaZ0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexsandre Figueiredo Lago",
+      "url": "/citations?user=BUs9qhYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andrea de Oliveira Cardoso",
+      "url": "/citations?user=dQYc5GQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Klink, J.",
+      "url": "/citations?user=HSDMdrEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andréa Onofre de Araujo",
+      "url": "/citations?user=x-iZh-QAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcio Luiz dos Santos",
+      "url": "/citations?user=xJftGuwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jorge Diego Marconi",
+      "url": "/citations?user=WHiwImsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paula Ayako Tiba",
+      "url": "/citations?user=1BdfHFsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sônia Maria Malmonge",
+      "url": "/citations?user=4WQNVFwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renan Trevisoli",
+      "url": "/citations?user=aowz-QUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre M. Cravo",
+      "url": "/citations?user=3wXzwCIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciana Campos Paulino",
+      "url": "/citations?user=ynba_pwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renata Costa",
+      "url": "/citations?user=Hw0TPNkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Flavio Leandro de Souza",
+      "url": "/citations?user=WCM3IDAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Gibran",
+      "url": "/citations?user=cB7T4zcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ruth Flavia Vera Villamil Jaimes",
+      "url": "/citations?user=0kHA1A8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Harki Tanaka",
+      "url": "/citations?user=vSTfiEwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz Alberto Luz de Almeida",
+      "url": "/citations?user=DFWBpcMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos da Silva dos Santos",
+      "url": "/citations?user=TcfxjhwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando L. Semiao",
+      "url": "/citations?user=3obTxMEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Suyama",
+      "url": "/citations?user=AVktnjsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jose Antonio Souza",
+      "url": "/citations?user=RPo3Q9gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paula Homem-de-Mello",
+      "url": "/citations?user=1PvSNr8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Eterovic",
+      "url": "/citations?user=r3VIok0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roosevelt Droppa Jr.",
+      "url": "/citations?user=w-TE_ggAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Leticie Mendonça Ferreira",
+      "url": "/citations?user=yeACN5UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jose Rubens Maiorino",
+      "url": "/citations?user=jmY_aIQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andrea Cecilia Dorion Rodas",
+      "url": "/citations?user=FlTacRUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "UFABC",
+      "url": "/citations?user=deis0zAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Leonardo Freire de Mello",
+      "url": "/citations?user=XBD14iAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Igor Leite Freire",
+      "url": "/citations?user=H1g8nxwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mateus J. Sudano",
+      "url": "/citations?user=QffjrmEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcia Aparecida Sperança",
+      "url": "/citations?user=X-jFYgMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Álvaro Takeo Omori",
+      "url": "/citations?user=NjVbo14AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudio N. Meneses",
+      "url": "/citations?user=01S5e1UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Enrique Santiago",
+      "url": "/citations?user=rKzxZQdg0PIC&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fabiano Brito",
+      "url": "/citations?user=RJcbqW0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciano Puzer",
+      "url": "/citations?user=qQhjf9UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando A. Oliveira",
+      "url": "/citations?user=6fsJzQoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre JC Lanfredi",
+      "url": "/citations?user=xfc9ns0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vanessa Elias de Oliveira",
+      "url": "/citations?user=oRes_IAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Chee Sheng Fong",
+      "url": "/citations?user=QQ5OhO4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sydney Ferreira Santos",
+      "url": "/citations?user=4nef4noAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Dácio Roberto Matheus",
+      "url": "/citations?user=c-SZvNMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Graziella Colato Antonio",
+      "url": "/citations?user=WSy7xpwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Carolina Santos de Souza Galvão",
+      "url": "/citations?user=8tjMyvkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciano Soares Cruz",
+      "url": "/citations?user=EFNO6OgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Camila Nunes Dias",
+      "url": "/citations?user=NXEJREkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eduardo Novais",
+      "url": "/citations?user=oUXVaSkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Charles Morphy D. Santos",
+      "url": "/citations?user=C6EDLlEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tiago Ribeiro de Oliveira",
+      "url": "/citations?user=BpkZDEAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "gabriela lotta",
+      "url": "/citations?user=zkIjWYQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alysson Fabio Ferrari",
+      "url": "/citations?user=jOUr8cYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "MARCELO ARAUJO DA SILVA",
+      "url": "/citations?user=j68ZgtkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alberto Arab",
+      "url": "/citations?user=m0Kq73kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz FML Ciscato",
+      "url": "/citations?user=AwZe2MAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rejane Maria Pereira da Silva",
+      "url": "/citations?user=VUzWjScAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tatiana Lima Ferreira",
+      "url": "/citations?user=Y21PC30AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jeverson Teodoro Arantes Junior",
+      "url": "/citations?user=bGZq7BsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Edson Pinheiro Pimentel",
+      "url": "/citations?user=zXNcgEcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Raquel Vecchio Fornari",
+      "url": "/citations?user=_1rn350AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcos RR Gesualdi",
+      "url": "/citations?user=Siv6u50AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "David Correa Martins Jr",
+      "url": "/citations?user=IT3CnCcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vani X. Oliveira Jr.",
+      "url": "/citations?user=XhrAynkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mariselma Ferreira",
+      "url": "/citations?user=M1K6vNsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luis AM Riascos",
+      "url": "/citations?user=8Vc7MTkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cecilia Chirenti",
+      "url": "/citations?user=m35NCHEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jean-Jacques Bonvent",
+      "url": "/citations?user=u_cLtvkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Reinaldo Luiz Cavasso Filho",
+      "url": "/citations?user=AweAlwIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Anselmo Nogueira",
+      "url": "/citations?user=oooZZO4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Heering Bartoloni",
+      "url": "/citations?user=z2sv7sUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Elizabeth Teodorov",
+      "url": "/citations?user=AE_Tv8UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "RA Rocha",
+      "url": "/citations?user=pYmdAQcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ronny Calixto Carbonari",
+      "url": "/citations?user=b7nqaSoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sergio Daishi Sasaki",
+      "url": "/citations?user=nE-s320AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Janaina Souza-Garcia",
+      "url": "/citations?user=kzSj6s0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luanna Parreira",
+      "url": "/citations?user=ApfEOPQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rosana Denaldi",
+      "url": "/citations?user=GCDPq88AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Zhanna Kuznetsova",
+      "url": "/citations?user=AYwreKIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Natalia Pirani Ghilardi-Lopes",
+      "url": "/citations?user=9Ulbz_UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Flavio de Oliveira Leme",
+      "url": "/citations?user=d0deOVQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz S. Martins-Filho",
+      "url": "/citations?user=tLNX2n0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Flavia Feitosa",
+      "url": "/citations?user=3qWNbcEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Elmer Ramirez Barreto",
+      "url": "/citations?user=oyehyG0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Felipe Chen",
+      "url": "/citations?user=oJIBOgcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Reginaldo K Fukuchi",
+      "url": "/citations?user=GyXTPBQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alfeu J. Sguarezi Filho",
+      "url": "/citations?user=BQjpJekAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cristiane Salum",
+      "url": "/citations?user=3kTqdN4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Douglas R. Norberto",
+      "url": "/citations?user=Q_HT-7sAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Otto Müller Patrão de Oliveira",
+      "url": "/citations?user=ClSPtZgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana Kelmy Macário de Faria Daguano",
+      "url": "/citations?user=SaIqOdoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Yossi Zana",
+      "url": "/citations?user=VuK_o0EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana Tófano de Campos Leite Toneli",
+      "url": "/citations?user=hRw5XHoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gerson Luiz Mantovani",
+      "url": "/citations?user=CuZkSu0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mauricio Batista Fialho",
+      "url": "/citations?user=5Vq_Xf4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Henrique",
+      "url": "/citations?user=tjS6d6UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Priscyla Waleska Simões",
+      "url": "/citations?user=uLqTeKoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gayane Karapetyan",
+      "url": "/citations?user=Pye0PaIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Francisco J. Fraga",
+      "url": "/citations?user=6qB9RyUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria das Graças Bruno Marietto",
+      "url": "/citations?user=-nCVHz0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Danilo Carastan",
+      "url": "/citations?user=9Pch6-0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcio de Souza Werneck",
+      "url": "/citations?user=CW4E-dMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gisele Ducati",
+      "url": "/citations?user=1E2-s2kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Raphael Y. de Camargo",
+      "url": "/citations?user=0dg0WvQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriano Reinaldo Viçoto Benvenho",
+      "url": "/citations?user=bJ41hlkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Javier Acuña",
+      "url": "/citations?user=FG0Mi_4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mirtha Lina Fernández Venero",
+      "url": "/citations?user=kZJSrDwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Paula Moraes",
+      "url": "/citations?user=37ciJIYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Silvia Dotta",
+      "url": "/citations?user=YZzzLFUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Paulo Gois",
+      "url": "/citations?user=-AYhiyQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "VANDERLI PRIETO",
+      "url": "/citations?user=heFhXqIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Flávio Eduardo Aoki Horita",
+      "url": "/citations?user=rM2dTOMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria das Graças da Silva Valenzuela",
+      "url": "/citations?user=C8WrrkoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cedric Rocha Leao",
+      "url": "/citations?user=w5Kb0k0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maurício Richartz",
+      "url": "/citations?user=EOjrw9gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gustavo Sousa Pavani",
+      "url": "/citations?user=mrjOA4MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Regina Adão",
+      "url": "/citations?user=FCrixqUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gilberto Maringoni",
+      "url": "/citations?user=M6-M1oMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Julio Carlos Teixeira",
+      "url": "/citations?user=JhtHGHAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Norberto Maidana",
+      "url": "/citations?user=azSD_hQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tiago F. Carrijo",
+      "url": "/citations?user=ERKii58AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Francisco de Assis Zampirolli",
+      "url": "/citations?user=9jboxEoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Camilo Andrea Angelucci",
+      "url": "/citations?user=GUfuBa0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maurício Firmino Silva Lima",
+      "url": "/citations?user=U1VVNz8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "fulvio callegari",
+      "url": "/citations?user=yJm6nDEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ramon Garcia Fernandez",
+      "url": "/citations?user=Y60Ji-MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Katia Albertin",
+      "url": "/citations?user=AMEDx-4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Guilherme Ribeiro Balan",
+      "url": "/citations?user=40X9aKEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo S. Caetano",
+      "url": "/citations?user=e2nCRSEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Henrique Kleinschmidt",
+      "url": "/citations?user=UjZ7lg8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Laura Paulucci",
+      "url": "/citations?user=-90ztzAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luana S. Pedroza",
+      "url": "/citations?user=23O6ZJAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sinclair Mallet Guy Guerra",
+      "url": "/citations?user=dUN3NeEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roberto Gomes de Aguiar Veiga",
+      "url": "/citations?user=wx8ru4UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ahda P. Grilo",
+      "url": "/citations?user=oaWImQkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guilherme Brockington",
+      "url": "/citations?user=-B92fhQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Erico F Lopes Pereira-Silva",
+      "url": "/citations?user=2AHVVaoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rafael D. Vilela",
+      "url": "/citations?user=7dJaLBYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Edmarcio Antonio Belati",
+      "url": "/citations?user=ru5e5XcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Arlene Martinez Ricoldi",
+      "url": "/citations?user=EZJoMJ8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Salomão Barros Ximenes",
+      "url": "/citations?user=ae_edu8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Annibal Hetem",
+      "url": "/citations?user=elFtyk4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renata Simões",
+      "url": "/citations?user=m9MwJWYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Diogo Soriano",
+      "url": "/citations?user=KcIVt-cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz Henrique Bonani",
+      "url": "/citations?user=jMXAGDMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guilherme Cunha Ribeiro",
+      "url": "/citations?user=nlcD3L8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paulo Joia Filho",
+      "url": "/citations?user=cUzRA4YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nathalia de Setta",
+      "url": "/citations?user=zkF3m9sAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Erika Reime Kinjo",
+      "url": "/citations?user=IguE9mUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cicero Ribeiro de Lima",
+      "url": "/citations?user=2g5_DRkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Carolina Quirino Simões",
+      "url": "/citations?user=fkg9hJYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gustavo Muniz Dias",
+      "url": "/citations?user=_mQIg1IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernanda de Lourdes Souza",
+      "url": "/citations?user=AVnz0nIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Magno Enrique Mendoza Meza",
+      "url": "/citations?user=PjLq4isAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre Gustavo Scagliusi Landulfo",
+      "url": "/citations?user=ddhNsuMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nelson Faustino",
+      "url": "/citations?user=Jgni-dYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Christiane Lombello",
+      "url": "/citations?user=Mr91e54AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ever Aldo Arroyo Montero",
+      "url": "/citations?user=0qkcPCgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Kátia Canil",
+      "url": "/citations?user=eAgbhgcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rogerio Teixeira Cavalcanti",
+      "url": "/citations?user=MaU0H1UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Moretti",
+      "url": "/citations?user=mEbMNioAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jeroen Schoenmaker",
+      "url": "/citations?user=X3awIx8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernanda Dias da Silva",
+      "url": "/citations?user=yhkbUKUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ivan RS Casella",
+      "url": "/citations?user=j4_SdD4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alessandro Jacques Ribeiro",
+      "url": "/citations?user=9oAEvG0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "SungKi Jung",
+      "url": "/citations?user=Pmg1HTwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "CE Capovilla",
+      "url": "/citations?user=xCpi-eIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Perotoni",
+      "url": "/citations?user=xcwqjJUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cleiton Domingos Maciel",
+      "url": "/citations?user=rtGl8hUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Giselle Watanabe",
+      "url": "/citations?user=8MjZ-WkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thales Sousa",
+      "url": "/citations?user=nhIdTDgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Zanotello",
+      "url": "/citations?user=kr6nElYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Giulliana Mondelli",
+      "url": "/citations?user=nh_5UfwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriano Cherchiglia",
+      "url": "/citations?user=2gsFoSIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Manoel Losada Moreira",
+      "url": "/citations?user=9CJpfcsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sergio Ricardo Lourenço",
+      "url": "/citations?user=4ftsgt8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Kenji Nose Filho",
+      "url": "/citations?user=hIPb0FQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nasser Daghastanli",
+      "url": "/citations?user=tGiZkhAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcio Katsumi Oikawa",
+      "url": "/citations?user=74zvQIMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Harlen Costa Batagelo",
+      "url": "/citations?user=eJqVzcoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Lombello",
+      "url": "/citations?user=tnnx68cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vera Paschon",
+      "url": "/citations?user=pnyNLV8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juan Pablo Julca Avila",
+      "url": "/citations?user=GVrJggIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Valter Pomar",
+      "url": "/citations?user=TsOJFJsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Breno Arsioli Moura",
+      "url": "/citations?user=SnmpQWYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Giorgio Romano Schutte",
+      "url": "/citations?user=Bf8xHMIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paula Braga",
+      "url": "/citations?user=iVjRfsgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sabrina Camargo",
+      "url": "/citations?user=LTDa75gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thiago Ferreira Covões",
+      "url": "/citations?user=0AptspgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Karla Vittori",
+      "url": "/citations?user=UQKMGI0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo B. Suzuki",
+      "url": "/citations?user=GYSaSkEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudia Boian",
+      "url": "/citations?user=ZXneXykAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre Martin Timpanaro",
+      "url": "/citations?user=SFRPkOEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tatiana Berringer",
+      "url": "/citations?user=-KRaSjcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Oliveira LP; Ligia Petrolini de Oliveira; Oliveira LP; Oliveira, Ligia P.",
+      "url": "/citations?user=Yd8LWHQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "AB Dietrich",
+      "url": "/citations?user=yWV5COEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Papoti",
+      "url": "/citations?user=IY7u1FwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre Noma",
+      "url": "/citations?user=LukGFNcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Franciane Freitas Silveira",
+      "url": "/citations?user=Q38TlysAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nunzio Marco Torrisi",
+      "url": "/citations?user=CIyq9coAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Celso Setsuo Kurashima",
+      "url": "/citations?user=RPtcTp8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Aline Neves",
+      "url": "/citations?user=JDj7asEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno de Paula Rocha",
+      "url": "/citations?user=cJwcIJEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mauricio GM Santos",
+      "url": "/citations?user=95ALYVoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tatiane Araujo Jesus",
+      "url": "/citations?user=AyPNr_oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Diogo S. Martins",
+      "url": "/citations?user=yeSQV8AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wilson Mesquita de Almeida",
+      "url": "/citations?user=oghyf1EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Ligia Scott, Scott AL, AL Scott, Ana L Scott",
+      "url": "/citations?user=XTJnID0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patricia Morilha Muritiba",
+      "url": "/citations?user=2yNZaVwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Valerio Ramos Batista",
+      "url": "/citations?user=wgNiFe4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudinei Biazoli",
+      "url": "/citations?user=z5A6HN0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renato Mendes Coutinho",
+      "url": "/citations?user=RkgQvSYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Erika Fernanda Prados",
+      "url": "/citations?user=3EUB2uYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adalberto Azevedo",
+      "url": "/citations?user=9v-AMuUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Anapatrícia Vilha",
+      "url": "/citations?user=c_BweeYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudio Bordin",
+      "url": "/citations?user=DuAk6FsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlo Kleber da Silva Rodrigues",
+      "url": "/citations?user=mVb39HIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Kazuo Takahata",
+      "url": "/citations?user=pyLn3q4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Miguel Said Vieira",
+      "url": "/citations?user=vKIgb8IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eduardo Gueron",
+      "url": "/citations?user=JRxNkl8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz Antonio Celiberto Junior",
+      "url": "/citations?user=o3-fIj4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Emilio Francesquini",
+      "url": "/citations?user=8X6ed3YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joel David Melo Trujillo",
+      "url": "/citations?user=TcOgAgEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sanches, FHC",
+      "url": "/citations?user=cB_l1g8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eloah Rabello Suarez",
+      "url": "/citations?user=aeaVlT8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Murilo Bellezoni Loiola",
+      "url": "/citations?user=3ZXnIroAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andreza Cândido Matias",
+      "url": "/citations?user=0yrcFi8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Maria Pereira Neto",
+      "url": "/citations?user=ZROq-C4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Diego Azzi",
+      "url": "/citations?user=AgszqOgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mirela Sairre",
+      "url": "/citations?user=nnS2IXIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cristian Coletti",
+      "url": "/citations?user=POt1QBQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sidney Jard da Silva",
+      "url": "/citations?user=i_5Fe0gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andrea Cristina Lima Pardini",
+      "url": "/citations?user=pyaAKtsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Silvana Zioni",
+      "url": "/citations?user=_GHhh68AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Artur Franz Keppler",
+      "url": "/citations?user=GHL8qXEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paulo Henrique Pisani",
+      "url": "/citations?user=91ZlggcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renato Kinouchi",
+      "url": "/citations?user=X_yq_K0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Poliana Cardoso-Gustavson",
+      "url": "/citations?user=B2lXILYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria Caramez Carlotto",
+      "url": "/citations?user=mzcJGHIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Francisco de Assis Comaru",
+      "url": "/citations?user=SUgKgakAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Conrado Augustus de Melo",
+      "url": "/citations?user=bO3n-ngAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo Fresneda",
+      "url": "/citations?user=jIma2ewAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luis Enrique Ramirez",
+      "url": "/citations?user=J7_evkYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mercia Regina Domingues",
+      "url": "/citations?user=QaAk02QAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "GO Mota",
+      "url": "/citations?user=K8lj7TUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vitor Marchetti",
+      "url": "/citations?user=tsY2qyUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wagner Tanaka Botelho",
+      "url": "/citations?user=nxHB2EsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mario Gazziro",
+      "url": "/citations?user=ehRbHFQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Priscila Benitez",
+      "url": "/citations?user=OwivZzgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Pires",
+      "url": "/citations?user=m5phD9oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "luciana travassos",
+      "url": "/citations?user=_hmS9SYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Delmo Moura",
+      "url": "/citations?user=PCeOvdgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cibele Biondo",
+      "url": "/citations?user=I2GBo4AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Der Torossian Torres",
+      "url": "/citations?user=N-Z6jh8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Dezan",
+      "url": "/citations?user=Sd3rkQgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernanda Pollo Paniz",
+      "url": "/citations?user=gqlHrv0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "William Couto Corrêa de Lima",
+      "url": "/citations?user=D3C0E3wAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Anibal Mendes",
+      "url": "/citations?user=hIeT5OAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rafaela Vilela da Rocha",
+      "url": "/citations?user=HYI6wOUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sandra Irene Momm Schult",
+      "url": "/citations?user=c6tyJTkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luisa Helena dos Santos Oliveira",
+      "url": "/citations?user=qKrVe3oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cristina Fróes de Borja Reis",
+      "url": "/citations?user=sfBhWuQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Demétrio Gaspari Cirne de Toledo",
+      "url": "/citations?user=7XauZGwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renato Naville Watanabe",
+      "url": "/citations?user=2Eim5wEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lucio Campos Costa",
+      "url": "/citations?user=R0ktAFEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eduardo Lucas Subtil",
+      "url": "/citations?user=RPeh1S0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriana Farias da Silva",
+      "url": "/citations?user=XiruK8gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Boari Coelho",
+      "url": "/citations?user=i200-7cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patricia Vanzella",
+      "url": "/citations?user=VBKbXuYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcio Cuppari",
+      "url": "/citations?user=WCDZwLQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gislaine Patricia de Andrade",
+      "url": "/citations?user=i5OwQZwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vitor Vieira Vasconcelos",
+      "url": "/citations?user=k8Y-3xYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruce Lehmann Sánchez Vega",
+      "url": "/citations?user=JWq1ixcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Olympio Barbanti Jr",
+      "url": "/citations?user=kIB3l0kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos Enrique Valcárcel Flores",
+      "url": "/citations?user=Sahw7bUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carla Negri Lintzmayer",
+      "url": "/citations?user=kB7rfpQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Noemia Isoda",
+      "url": "/citations?user=hKKYZksAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luci Praun",
+      "url": "/citations?user=s8vtfDUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Júlio Francisco Blumetti Facó",
+      "url": "/citations?user=9DNptQUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo da Silva Benedito",
+      "url": "/citations?user=AiwiqiYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Flamarion Caldeira Ramos",
+      "url": "/citations?user=5WbsdkQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eder Abensur",
+      "url": "/citations?user=pde-XpgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Michelle Liberato",
+      "url": "/citations?user=cS-o-PgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Crhistian Raffaelo Baldo",
+      "url": "/citations?user=9QTtNjkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mônica Yukie Kuwahara",
+      "url": "/citations?user=cE-pev0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana dos Santos de Souza",
+      "url": "/citations?user=ErrgJQ4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "José Azcue",
+      "url": "/citations?user=X0OqEbcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roseli Frederigi Benassi",
+      "url": "/citations?user=aAo_pi4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Teubl Ferreira",
+      "url": "/citations?user=L1U20LoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernanda Franzolin",
+      "url": "/citations?user=sPq_uQoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Virginia Cardoso",
+      "url": "/citations?user=oWXmQZwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Reinaldo Marcondes Orselli",
+      "url": "/citations?user=Wk3q2_0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciana Zaterka",
+      "url": "/citations?user=ZxAJFcwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Angela Terumi Fushita",
+      "url": "/citations?user=15MvoN8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Allan Moreira Xavier",
+      "url": "/citations?user=yXrIZfsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Walter Hugo Lopez Pinaya",
+      "url": "/citations?user=jjT5-HUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Julino Rodrigues Soares",
+      "url": "/citations?user=FSDdYRAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Márcia Maria Penteado Marchesini",
+      "url": "/citations?user=1sYy5VMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Oliver, Graciela de Souza",
+      "url": "/citations?user=aKdxNmAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gabriela Mueller de Melo",
+      "url": "/citations?user=sTsFl9YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Alva",
+      "url": "/citations?user=cAdtOZkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Maria Inês Ribas Rodrigues",
+      "url": "/citations?user=_2miahAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Aline Olimpio Pereira",
+      "url": "/citations?user=PzTHKtUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Solange Wagner Locatelli",
+      "url": "/citations?user=C4iTtHYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pedro Lauridsen Ribeiro",
+      "url": "/citations?user=uhd-ZfsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bóris Marin",
+      "url": "/citations?user=cQjMyUEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thiago Fonseca Morello",
+      "url": "/citations?user=QN3kc_4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Aryane Tofanello",
+      "url": "/citations?user=jFZaV4oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "de Campos, VAF",
+      "url": "/citations?user=sn7LnskAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jorge Tomioka",
+      "url": "/citations?user=xGoqXFcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Leonardo Ribeiro Rodrigues",
+      "url": "/citations?user=0EAT1lAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luneque Silva Junior",
+      "url": "/citations?user=CUUELykAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Hideo Taniwaki",
+      "url": "/citations?user=9y-Bt1cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mirian Pacheco Silva",
+      "url": "/citations?user=nUMbDhoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mariana Rodrigues da Silveira",
+      "url": "/citations?user=ltp6Hr8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rafael Jeferson Pezzuto Damaceno",
+      "url": "/citations?user=A8yhXQIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fanny Costa",
+      "url": "/citations?user=eNeW_LwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gilberto Martins",
+      "url": "/citations?user=kfkwS7kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Michel Dantas",
+      "url": "/citations?user=RoX41AMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana Berbert",
+      "url": "/citations?user=628U3T8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo Pavão",
+      "url": "/citations?user=Rp_NPk0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Filipe Ieda Fazanaro",
+      "url": "/citations?user=eN-gwAYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Graciella Watanabe",
+      "url": "/citations?user=ifnGhfcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Martorano Kuerten",
+      "url": "/citations?user=fQx-1FUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Diego Sanches Correa",
+      "url": "/citations?user=CfhAp5YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodolfo Sbrolini Tiburcio",
+      "url": "/citations?user=HFhCxl4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana Casares Araujo Chaves",
+      "url": "/citations?user=zBw0uQMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Denis Gustavo Fantinato",
+      "url": "/citations?user=sfKUru0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Isis Sousa Oliveira Pereira",
+      "url": "/citations?user=wzG-ZlEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Aléxia Bretas",
+      "url": "/citations?user=XnFuezYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "RAFAEL AUGUSTO SOTANA DE SOUZA",
+      "url": "/citations?user=AFPhAIwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cristine Koehler Zanella",
+      "url": "/citations?user=6YJhlNUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patrícia Helena Fernandes Cunha",
+      "url": "/citations?user=xXxP5F8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "José Blanes Sala",
+      "url": "/citations?user=J-cFEPAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "J. Alexis Andrade-Romero",
+      "url": "/citations?user=ErUPnWAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Leandro Baroni",
+      "url": "/citations?user=Xr2VR78AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Pierro de Camargo",
+      "url": "/citations?user=FEfh58sAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "AM-Veneziani",
+      "url": "/citations?user=sBEbj5sAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Kelly Annes",
+      "url": "/citations?user=lV5v9BMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Julio Leite",
+      "url": "/citations?user=P83B0mYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Erik Gustavo Del Conte",
+      "url": "/citations?user=Y6OK2IcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Neusa Serra",
+      "url": "/citations?user=KhX72IAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Geanne Conserva",
+      "url": "/citations?user=PGN43VUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patrice A. Camati",
+      "url": "/citations?user=KEEh0-MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joshua D. Shake",
+      "url": "/citations?user=kifBz8cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "P de Ávila",
+      "url": "/citations?user=ucytO5MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Silvia Helena Passarelli",
+      "url": "/citations?user=VWX-CA0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Pansarelli",
+      "url": "/citations?user=rUMnZqkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "ANDRADE, Alexandre Acácio de",
+      "url": "/citations?user=1uf9y48AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juan C. Cutipa Luque",
+      "url": "/citations?user=z_o035QAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rovilson Mafalda",
+      "url": "/citations?user=IzfKWqYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lety Bueno",
+      "url": "/citations?user=fI-FAYwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciana Pereira",
+      "url": "/citations?user=MBRMocUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paulo Henrique de Mello Santana",
+      "url": "/citations?user=wN2dPxUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mario Minami",
+      "url": "/citations?user=1fQgIDQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guilherme Fráguas Nobre",
+      "url": "/citations?user=5YwoAI8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cesar Oswaldo Vasquez Flores",
+      "url": "/citations?user=tv4iK04AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patrícia Velasco",
+      "url": "/citations?user=R5dd4dwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wagner Shin Nishitani",
+      "url": "/citations?user=CCfZpzgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jose Alberto Torrico Altuna",
+      "url": "/citations?user=wgZgqTcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "José Paulo Guedes Pinto",
+      "url": "/citations?user=W6AZhbAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Nathalie de Almeida Bressiani",
+      "url": "/citations?user=P5sFhFcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Douglas Alves Cassiano",
+      "url": "/citations?user=dFxs79gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jeronimo Pellegrini",
+      "url": "/citations?user=c9sACqUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernando Costa Mattos",
+      "url": "/citations?user=2YkWY9MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gabriela Chiuffa Tunes",
+      "url": "/citations?user=O7IpUm4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Dr. Guilherme Canuto da Silva",
+      "url": "/citations?user=YCNABmsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lays Batista Fitaroni",
+      "url": "/citations?user=9uLW33gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lindomar JC Albuquerque",
+      "url": "/citations?user=ELCfiJwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guilherme Sombrio",
+      "url": "/citations?user=Z39kKIsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gabriela Farias Asmus",
+      "url": "/citations?user=rlFvIKEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Marcelo Borovina Josko",
+      "url": "/citations?user=1_lxzpgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudia Correa",
+      "url": "/citations?user=-rcYmqIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lorenzo Baravalle",
+      "url": "/citations?user=7OnO31EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo Papai de Souza",
+      "url": "/citations?user=lhhOjcgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo R. Dias",
+      "url": "/citations?user=x6BJTA8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo de Freitas Bueno",
+      "url": "/citations?user=7H2frq0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciana Nicolau Ferrara",
+      "url": "/citations?user=7bCILOIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ivan Filipe de Almeida Lopes Fernandes",
+      "url": "/citations?user=bXaMIr4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rafael Celeghini Santiago",
+      "url": "/citations?user=0HiUu_EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sheila Cruz Araujo",
+      "url": "/citations?user=io5P7yUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "JOÃO PAULO NALDI SILVA",
+      "url": "/citations?user=e9pym4gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Miriam Milanelo",
+      "url": "/citations?user=TWO2q8MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcia Alvim",
+      "url": "/citations?user=D2SMBUgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Edimar Agnaldo Moreira",
+      "url": "/citations?user=roCcAq4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Antonio Gil Vicente de Brum",
+      "url": "/citations?user=qNYtgz0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Zani",
+      "url": "/citations?user=mPhNmgYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Manuel Ramon Souza Luz",
+      "url": "/citations?user=-zfuWYUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marina Sparvoli",
+      "url": "/citations?user=I1FyupAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre Heideker",
+      "url": "/citations?user=DeRImqgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Luiz Pardal-Souza",
+      "url": "/citations?user=rtjQ8SgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ailton Paulo de Oliveira Júnior",
+      "url": "/citations?user=fuOummwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos Alexandre Soares",
+      "url": "/citations?user=_Rk0hJ4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Brunno Gastaldo",
+      "url": "/citations?user=UVbCvC4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Manuela G Rodrigues",
+      "url": "/citations?user=l7rfXAwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alain Segundo",
+      "url": "/citations?user=SZPZPgIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "William Moreti da Rosa",
+      "url": "/citations?user=SkdviSkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joao Rodrigo Santos da Silva",
+      "url": "/citations?user=ent1gP0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "CP Davi",
+      "url": "/citations?user=UqM8Jj8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Meiri Aparecida Gurgel de Campos Miranda",
+      "url": "/citations?user=ru6mxnYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luciano Rossi",
+      "url": "/citations?user=wWxKQjoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Valéria Lopes Ribeiro",
+      "url": "/citations?user=Xi4d-94AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Isabela de Godoy Menezes",
+      "url": "/citations?user=Ua-1H2gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno Nadai",
+      "url": "/citations?user=pxVUFSgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Josivan Pereira da Silva",
+      "url": "/citations?user=z_1HJ9IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gabriel Ravanhani Schleder",
+      "url": "/citations?user=Fe8L_woAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "ALEX ALAVARSE",
+      "url": "/citations?user=FMfAclMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Edison Franco Junior",
+      "url": "/citations?user=-xooTsMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel de Moraes Navarro",
+      "url": "/citations?user=iCVuzkkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vitor Schincariol",
+      "url": "/citations?user=D2TjWJ4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vinicius Cifú Lopes",
+      "url": "/citations?user=OYEKdjcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vinicius Prado Suppioni",
+      "url": "/citations?user=tJrb7yEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Érica Miranda",
+      "url": "/citations?user=QAAzmokAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ivan Dimitry Zyrianoff",
+      "url": "/citations?user=0LPd3y4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Candida da Silva Ferreira Barreto",
+      "url": "/citations?user=QDBvv2gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daubian Santos",
+      "url": "/citations?user=omfNLbMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marco Cuyubamba",
+      "url": "/citations?user=MdLOAJUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Damiani",
+      "url": "/citations?user=_4dQAPAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roger Borges",
+      "url": "/citations?user=eJHHyu8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Yohel Domingo Larrauri Pizarro",
+      "url": "/citations?user=BQm8TiAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Saulo Ramos",
+      "url": "/citations?user=3U36LPoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos Mario Rocha Osorio",
+      "url": "/citations?user=VDoNquEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guillermo Flórez",
+      "url": "/citations?user=-7paungAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Humberto de Paiva Junior",
+      "url": "/citations?user=Y8pfom0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Wesley Góis",
+      "url": "/citations?user=kOMnjfgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Cristiane Negreiros Abbud Ayoub",
+      "url": "/citations?user=QG-RgqcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bianca Faceto",
+      "url": "/citations?user=mHKvXGwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patricia Cassiolato Tufanetto",
+      "url": "/citations?user=PzKqTr4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Roberta Ferreira Leite",
+      "url": "/citations?user=RlxuAj8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcia Aguiar",
+      "url": "/citations?user=mh_yzk8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marco Antonio Bueno Filho",
+      "url": "/citations?user=K6aqgaMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliana Alves Pereira Sato",
+      "url": "/citations?user=vTiohvAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Érica de Liandra Salvador",
+      "url": "/citations?user=JgwLnXEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vitor da Silva Bittencourt",
+      "url": "/citations?user=KoJAaSwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Antonio Cândido Faleiros",
+      "url": "/citations?user=wwBDY-cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lucio Nagib Bittencourt",
+      "url": "/citations?user=3qOdejsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Priscila Rossoni",
+      "url": "/citations?user=TbBKi6UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Danilo Carastan-Santos",
+      "url": "/citations?user=HZWnciwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Victoria Alejandra Salazar Herrera",
+      "url": "/citations?user=DWrXJx0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sinuê Dayan Barbero Lodovici",
+      "url": "/citations?user=4nuZCSYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Muhsen Hammoud",
+      "url": "/citations?user=yZfBPK0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andre Luiz Martins de Freitas",
+      "url": "/citations?user=DAvtm_YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "afonso chimanski",
+      "url": "/citations?user=BBwzqrcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Edgar Fernando Cortes Rodriguez",
+      "url": "/citations?user=zVE3bGUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luis Ismael Asmat López",
+      "url": "/citations?user=xL5rMYUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thais Ribeiro da Silva",
+      "url": "/citations?user=ezlIFwIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Suze Piza",
+      "url": "/citations?user=_jbeiXkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Elias David Morales Martinez",
+      "url": "/citations?user=d5xt98AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Débora Sterzeck Cardoso",
+      "url": "/citations?user=JrulPDwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ailton Andrade de Oliveira",
+      "url": "/citations?user=tofT8xwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paulo Tadeu da Silva",
+      "url": "/citations?user=rAJ_dl8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thiago Mattioli",
+      "url": "/citations?user=zA3qoYgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Silvia Titotto",
+      "url": "/citations?user=XLOOOQ4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jessica Alves",
+      "url": "/citations?user=DP85F7MAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sandra Z. Yepes",
+      "url": "/citations?user=EU8k8SgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Andreia Boaro",
+      "url": "/citations?user=3bjXts4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thiago Donizetti dos Santos",
+      "url": "/citations?user=JUb2-rAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Simone Queiroz Pantaleão",
+      "url": "/citations?user=on8mFNQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Francisco J. Gozzi",
+      "url": "/citations?user=7iSJS14AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Saulo Vicente Moreira",
+      "url": "/citations?user=VkGdqFoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Camilo Posada, Ph.D.",
+      "url": "/citations?user=SlYgaVkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guadalupe Maria Jungers Abib de Almeida",
+      "url": "/citations?user=1t_HDIAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patrícia Dias dos Santos",
+      "url": "/citations?user=Jhtw_QsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Beni Trojbicz",
+      "url": "/citations?user=6eWfwMUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alexandre Soares Cavalcante",
+      "url": "/citations?user=J35OhMgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Tiago Brito",
+      "url": "/citations?user=YAmYGVwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Enesio Marinho da Silva Junior",
+      "url": "/citations?user=YjMhITAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Paula Arantes Bueno",
+      "url": "/citations?user=5wL52OYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gesialdo Silva do Nascimento",
+      "url": "/citations?user=bsJhsxoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Samuel Oliveira",
+      "url": "/citations?user=6op5_4IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Heleno Quevedo de Lima",
+      "url": "/citations?user=eaL_zoUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo Teiske China",
+      "url": "/citations?user=aY0s_ooAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Vitor Andrade Nascimento",
+      "url": "/citations?user=Z9E2xIcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paulo Roberto Elias de Souza",
+      "url": "/citations?user=ZJ1zPFwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ivan Seidel",
+      "url": "/citations?user=wMGum9EAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pedro Túlio de Resende Lara",
+      "url": "/citations?user=q-X7XdAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Raquel Vieira Busto",
+      "url": "/citations?user=DoDXe6wAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ruth Ramos",
+      "url": "/citations?user=5mbQKEUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ana Tereza Marra de Sousa",
+      "url": "/citations?user=0Ms-SUkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Amanda Juraski",
+      "url": "/citations?user=v0LjH3kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thais V Souza",
+      "url": "/citations?user=rJZIGHwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Juan Ferreira-Martins",
+      "url": "/citations?user=tyTlYvcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Raquel Rivera Soldera",
+      "url": "/citations?user=emfK9d8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Henrique Pavan Beiro de Souza",
+      "url": "/citations?user=J1djyVwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Deise Vitorino",
+      "url": "/citations?user=gCtHTh0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Lopes Dias",
+      "url": "/citations?user=732EehYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniela Lima Silva",
+      "url": "/citations?user=G06KQ44AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Carlos Palechor",
+      "url": "/citations?user=2mHoYaIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Louise Catheryne Barne",
+      "url": "/citations?user=5UhIxwsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "FELIPE DE MOURA SOUZA",
+      "url": "/citations?user=8mp2RF4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Victor Hugo Argentino de Morais Vieira",
+      "url": "/citations?user=AzSWSL0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Guilherme Begotti Domingos",
+      "url": "/citations?user=zpvBlI4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Miranda",
+      "url": "/citations?user=qzbkJYwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Eduardo Christiano Cecone",
+      "url": "/citations?user=D1uj1GIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luca Pitteloud",
+      "url": "/citations?user=DF4jTq8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Elizabeth Nunes Alves",
+      "url": "/citations?user=_tsA4CoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pedro Henrique Camargo Penna",
+      "url": "/citations?user=0wlyAiAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Hugo da Silva Carlos",
+      "url": "/citations?user=P-0iMMcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Stephanie Sampronha",
+      "url": "/citations?user=iBGq3WQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo Marotti Togneri",
+      "url": "/citations?user=_g7dN_oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Cunha",
+      "url": "/citations?user=JiyR8hoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Davi Wilkson Furtado Sozinho",
+      "url": "/citations?user=CG1fb3F-bwEC&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Alves Heinze",
+      "url": "/citations?user=aiKSrmIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno Casagrande Dias",
+      "url": "/citations?user=RcRESnQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ronaldo Epifanio de Oliveira Filho",
+      "url": "/citations?user=JYtjV_YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Sérgio Leal",
+      "url": "/citations?user=RzgwBqgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gustavo Torres Custodio",
+      "url": "/citations?user=vyLqulgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Stefania Souza",
+      "url": "/citations?user=HDPzB4UAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo silva salmazo",
+      "url": "/citations?user=BOHSoQ8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Dario Bonano Palacio",
+      "url": "/citations?user=EDVoJ7gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Marcelo Aversa",
+      "url": "/citations?user=b_y7rWsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lucas Falcão Silva",
+      "url": "/citations?user=gUx_vGcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Ricardo Buscariolli",
+      "url": "/citations?user=C6zEu7QAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gilson Cesar da Costa",
+      "url": "/citations?user=tSlXCBMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jaime santos Júnior",
+      "url": "/citations?user=Dli4U7kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Moisés dos Santos Corrêa",
+      "url": "/citations?user=QRCbhKUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriano Alves de Aquino Araújo",
+      "url": "/citations?user=NG_RNggAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriana Hiromi Yukimitsu",
+      "url": "/citations?user=7U424MsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mauricio Paulino Marques Fernandes",
+      "url": "/citations?user=w3nKq7QAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "MOREIRA, Patrícia Alves",
+      "url": "/citations?user=5mZFOjwAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Paluana Luquiari",
+      "url": "/citations?user=J1RxhmMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno José Machado de Camargo",
+      "url": "/citations?user=RoHwANgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Welington Silva",
+      "url": "/citations?user=37gowzgAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Danielle Beatriz de Sousa Borges",
+      "url": "/citations?user=2sYO834AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rafael Almeida Ferreira Abrão",
+      "url": "/citations?user=k-lYV1AAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Douglas William Cirino",
+      "url": "/citations?user=BMyfxDoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Mariella Mian",
+      "url": "/citations?user=ubJvDA4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Isabel Bezerra de Lima Franca",
+      "url": "/citations?user=Z_M1SU4AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joel Hernán Flores Martinez",
+      "url": "/citations?user=HXH63KIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Taís Oliveira",
+      "url": "/citations?user=XxSqHlAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Adriano Gomes de Freitas",
+      "url": "/citations?user=0UJk5msAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bruno Giordano",
+      "url": "/citations?user=4S5SLs0AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Beatriz Roberto",
+      "url": "/citations?user=1MwwqIUAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Joel Carlos Farias de Queiroz",
+      "url": "/citations?user=2_JF7iEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Claudia Andrade Nascimento",
+      "url": "/citations?user=UUNwOrYAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rosana Yamaguti",
+      "url": "/citations?user=l_GHbjsAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Daniel Belchior Rocha",
+      "url": "/citations?user=B12zIcoAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Bianca Cegolin",
+      "url": "/citations?user=vMjV1KwYIvkC&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Juliane Nogueira Batista Dias Pelin",
+      "url": "/citations?user=tUw4e8cAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Patrícia Ladeira",
+      "url": "/citations?user=PKiICFEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Oscar Daniel Valmaña Garcia",
+      "url": "/citations?user=CYcE0OcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Fernanda Miyuki Yamada",
+      "url": "/citations?user=oycvxbAAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Débora Franco Machado",
+      "url": "/citations?user=scY5v8oAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "João Paulo Reis Soares",
+      "url": "/citations?user=LvZ007kAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Rodrigo San Martin",
+      "url": "/citations?user=M0eRF9IAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Luiz Fernando Baltazar",
+      "url": "/citations?user=3yEAaukAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pâmela de Souza Bella Guerra",
+      "url": "/citations?user=YDED0ZMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "André Freitas Oliveira",
+      "url": "/citations?user=ZmbBwBEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Altemir Bortuli",
+      "url": "/citations?user=WjD7LGEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Thais de Araujo Goya Peduto",
+      "url": "/citations?user=h6pcG0YAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Alvaro David Torrez Baptista",
+      "url": "/citations?user=HQhj5QMAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renan Recio",
+      "url": "/citations?user=oJyuWRkAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "William César Santos Ramalho",
+      "url": "/citations?user=IqjNe5gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Aquerman Yanes Martinho",
+      "url": "/citations?user=iB3LCzEAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Pietro Parronchi",
+      "url": "/citations?user=s24tUFcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jorge Andres Duarte",
+      "url": "/citations?user=AWPkpIIAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Gabriela Boechat",
+      "url": "/citations?user=8mA41joAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Lucas Carvalho Lima",
+      "url": "/citations?user=hP1f94gAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Renato Fernandes Rodrigues",
+      "url": "/citations?user=cw_o1IQAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Isabela Coutinho",
+      "url": "/citations?user=2Oeobn8AAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Jesus, Daniele Freitas de",
+      "url": "/citations?user=F1krWEcAAAAJ&hl=pt-BR&oe=ASCII"
+    },
+    {
+      "nome": "Danilsa Iracelma de Almeida",
+      "url": "/citations?user=tXxpCJMAAAAJ&hl=pt-BR&oe=ASCII"
+    }
+  ]
+}
