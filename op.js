@@ -25,16 +25,23 @@ async function bora(){
 	let numArtigos = 0;
 	for(let i = 0; i < data.pesquisadores.length; i++){
 		let pesquisador = data.pesquisadores[i];
+
+		//pesquisador.artigos = pesquisador.artigos.slice(0, 100);
+
 		numArtigos += pesquisador.artigos.length;
-		console.log(pesquisadorToString(pesquisador));
+		if(pesquisador.artigos.length > 0){
+			console.log(pesquisadorToString(pesquisador));
+			//console.log(pesquisador.nome);
+		}
 	}
+	//salvarResultados();
 	
 	console.log(`\nStatus: cstart = ${status.cstart}, numPesquisador = ${status.numPesquisador}`);
 	console.log(`No total ${numArtigos} artigos foram obtidos.`)
 }
 
 function pesquisadorToString(pesquisador){
-	return `${pesquisador.artigos.length} artigos\t| ${pesquisador.nome}`;
+	return `${pesquisador.artigos.length} artigos\t|h = ${pesquisador.metricas.h.allTime}\t|${pesquisador.nome}`;
 }
 
 function resetArtigos(){

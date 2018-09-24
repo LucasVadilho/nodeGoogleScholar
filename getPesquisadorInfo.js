@@ -9,6 +9,8 @@ const NUM_MAX_PESQUISADORES = 2;
 const NUM_MAX_ARTIGOS = 2;
 const STEP_SIZE = 100;
 
+const ARTIGOS_POR_PESQUISADOR = 100;
+
 const ORGANIZACAO = {
 	id: "13217906292402142721",
 	nome: "Universidade Federal do ABC",
@@ -18,16 +20,19 @@ const ORGANIZACAO = {
 const ARQUIVO_DADOS = "dados/UFABC.json";
 const ARQUIVO_STATUS = "dados/status.json";
 
-const INTERVALO = 30 * 1000;
-
 async function peraAe(intervalo){
 	return new Promise(resolve => {
 		setTimeout(resolve, intervalo);
 	});
 }
 
+function randomWait(){
+	return Math.ceil(Math.random() * 2 * 60  * 1000); 
+}
+
 async function getRequest(url){
-	let tempo = Math.ceil(2 * 60 * Math.random() * 1000);
+	let tempo = randomWait();
+
 	console.log(`Request em (${tempo/1000}s): ${url}`);
 	await peraAe(tempo);
 
@@ -116,7 +121,7 @@ async function getPesquisadorJSON(pesquisador){
 
 		btnMais = $("#gsc_bpf_more");
 		i += STEP_SIZE;
-	} while(btnMais.attr("disabled") != "disabled");
+	} while(pesquisador.artigos.length < ARTIGOS_POR_PESQUISADOR && btnMais.attr("disabled") != "disabled");
 
 	console.log(`${pesquisador.artigos.length} artigos do ${pesquisador.nome} foram obtidos.`);
 
@@ -134,7 +139,7 @@ async function htmlToArtigosJSON($, pesquisador){
 
 	let linhas = $(".gsc_a_tr");
 
-	while(i <  linhas.length){
+	while(i <  linhas.length && pesquisador.artigos.length < ARTIGOS_POR_PESQUISADOR){
 				
 		let url = $(linhas[i]).find("a").attr("data-href");
 		let titulo = $(linhas[i]).find(".gsc_a_t > a").text();
@@ -207,11 +212,10 @@ function salvarResultados(){
 	});
 }
 
-// process.on('SIGINT', () => {
-// 	console.log("Alguém apertou ctrl-c");
-// 	await salvarResultados();
-// 	process.exit();
-// });
+process.on('SIGINT', async () => {
+	console.log("Alguém apertou ctrl-c");
+	process.exit();
+});
 
 bora();
 // k();
